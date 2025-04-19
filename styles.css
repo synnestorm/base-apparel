@@ -135,6 +135,9 @@ a {
     height: 50px;
     width: 300px;
   }
+  img.logo {
+    margin-left: 170px;
+  }
   img.mobile {
     display: none;
   }
